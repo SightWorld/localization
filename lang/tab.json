@@ -1,5 +1,5 @@
 {
-  "tab_header": {
+  "header": {
     "ru": [
       "§d§lSightWorld",
       " ",
@@ -8,7 +8,7 @@
       " "
     ]
   },
-  "tab_footer": {
+  "footer": {
     "ru": [
       " ",
       "Онлайн проекта: §d%global_online%"
