@@ -1,0 +1,17 @@
+{
+  "tab_header": {
+    "ru": [
+      "§d§lSightWorld",
+      " ",
+      "Вы находитесь на сервере: §7%server%",
+      "Наш сайт: §dwww.sightworld.ru",
+      " "
+    ]
+  },
+  "tab_footer": {
+    "ru": [
+      " ",
+      "Онлайн проекта: §d%global_online%"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "default": {
+    "ru": [
+      "§5§lSIGHT§f§lWORLD §8∭§r §fЭТО §l§dПРОСТО §fТЕСТ!",
+      "§d§l↪§r §f§lГЛОБАЛЬНОЕ §d§lОБНОВЛЕНИЕ §fИ §d§lНОВЫЙ РЕЖИМ!"
+    ]
+  },
+  "hex": {
+    "ru": [
+      "<gradient:#FF3399:#FFFFFF> §lSIGHTWORLD §8∭§r §fЭТО §l§dПРОСТО §fТЕСТ!",
+      "§d§l↪§r <gradient:#2880D8:#AC73CF:#EE68A4>§lГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ И НОВЫЙ РЕЖИМ!"
+    ]
+  }
+}
