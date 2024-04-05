@@ -1,0 +1,23 @@
+{
+  "alert_usage": {
+    "ru": "§cОшибка, используйте /alert <сообщение>!"
+  },
+  "connect_usage": {
+    "ru": "§cОшибка, используйте /connect <сервер>!"
+  },
+  "find_usage": {
+    "ru": "§cОшибка, используйте /find <игрок>!"
+  },
+  "find_offline_format": {
+    "ru": "§dСервер §8| §fИгрок %player% §fбыл в сети в последний раз §7%time% §fназад"
+  },
+  "find_online_format": {
+    "ru": "§dСервер §8| §fИгрок %player% §fнаходится на сервере §a%server%"
+  },
+  "online_format": {
+    "ru": "§dСервер §8| §fОнлайн проекта: §a%size% §fигроков"
+  },
+  "online_target_format": {
+    "ru": "§dСервер §8| §fОнлайн указанных режимов: §a%size% §fигроков"
+  }
+}
