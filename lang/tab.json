@@ -3,15 +3,15 @@
     "ru": [
       "§d§lSightWorld",
       " ",
-      "Вы находитесь на сервере: §7%server%",
-      "Наш сайт: §dwww.sightworld.ru",
+      "§7Творим магию...",
       " "
     ]
   },
   "footer": {
     "ru": [
       " ",
-      "Онлайн проекта: §d%global_online%"
+      "§fРежим: §d%server% §f| Онлайн режима: §d%local_online% §f| Пинг: §d%ping%",
+      "§fОнлайн-магазин: §bsightworld.ru"
     ]
   }
 }
