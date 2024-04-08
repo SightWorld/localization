@@ -13,7 +13,7 @@
       "ru": "Уровень: <pink>%level%"
     },
     "total_online": {
-      "ru": "Общий онлайн: <green>%total_ohline%"
+      "ru": "Общий онлайн: <green>%total_online%"
     },
     "site": {
       "ru": "<yellow>mc.sightworld.ru"
