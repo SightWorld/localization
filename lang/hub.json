@@ -10,7 +10,7 @@
       "ru": "Статус: %group%"
     },
     "ruby": {
-      "ru": "Рудины: <red>%ruby%"
+      "ru": "Рубины: <red>%ruby%"
     },
     "level": {
       "ru": "Уровень: <pink>%level%"
