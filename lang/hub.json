@@ -1,7 +1,13 @@
 {
   "board": {
     "title": {
-      "ru": "<gradient:#5e4fa2:#f79459:red>SightWorld</gradient>"
+      "ru": "<bold><gradient:#5e4fa2:#f79459:red>SightWorld</gradient>"
+    },
+    "money": {
+      "ru": "Монеты: <gold>%money%"
+    },
+    "ruby": {
+      "ru": "Рудины: <red>%ruby%"
     },
     "site": {
       "ru": "<yellow>mc.sightworld.ru"
