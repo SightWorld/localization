@@ -1,0 +1,138 @@
+{
+  "default": {
+    "prefix": {
+      "ru": "§7"
+    },
+    "name": {
+      "ru": "§7Игрок"
+    }
+  },
+  "slime": {
+    "prefix": {
+      "ru": "§a§lSLIME"
+    },
+    "name": {
+      "ru": "§aСлайм"
+    }
+  },
+  "stray": {
+    "prefix": {
+      "ru": "§b§lSTRAY"
+    },
+    "name": {
+      "ru": "§bСтрей"
+    }
+  },
+  "phantom": {
+    "prefix": {
+      "ru": "§d§lPHANTOM"
+    },
+    "name": {
+      "ru": "§dФантом"
+    }
+  },
+  "blaze": {
+    "prefix": {
+      "ru": "§6§lBLAZE"
+    },
+    "name": {
+      "ru": "§6Блейз"
+    }
+  },
+  "wither": {
+    "prefix": {
+      "ru": "§c§lWITHER"
+    },
+    "name": {
+      "ru": "§cВизер"
+    }
+  },
+  "guard": {
+    "prefix": {
+      "ru": "§3§lGUARD"
+    },
+    "name": {
+      "ru": "§3Страж"
+    }
+  },
+  "builder": {
+    "prefix": {
+      "ru": "§3§lBUILDER"
+    },
+    "name": {
+      "ru": "§3Строитель"
+    }
+  },
+  "sr_builder": {
+    "prefix": {
+      "ru": "§3§lSR.BUILDER"
+    },
+    "name": {
+      "ru": "§3Ст. Строитель"
+    }
+  },
+  "creator": {
+    "prefix": {
+      "ru": "§5§lCREATOR"
+    },
+    "name": {
+      "ru": "§5Креатор"
+    }
+  },
+  "helper": {
+    "prefix": {
+      "ru": "§2§lHELPER"
+    },
+    "name": {
+      "ru": "§2Помощник"
+    }
+  },
+  "sr_helper": {
+    "prefix": {
+      "ru": "§2SR.HELPER"
+    },
+    "name": {
+      "ru": "§2Ст. Помощник"
+    }
+  },
+  "moderator": {
+    "prefix": {
+      "ru": "§9§lMODER"
+    },
+    "name": {
+      "ru": "§9Модератор"
+    }
+  },
+  "sr_moderator": {
+    "prefix": {
+      "ru": "§9§lSR.MODER"
+    },
+    "name": {
+      "ru": "§9Ст. Модератор"
+    }
+  },
+  "administrator": {
+    "prefix": {
+      "ru": "§4§lADMIN"
+    },
+    "name": {
+      "ru": "§4Администратор"
+    }
+  },
+  "developer": {
+    "prefix": {
+      "ru": "§3§lDEVELOPER"
+    },
+    "name": {
+      "ru": "§3Разработчик"
+    }
+  },
+  "sr_administrator": {
+    "prefix": {
+      "ru": "§4§lSR.ADMIN"
+    },
+    "name": {
+      "ru": "§4Ст. Администратор"
+    }
+  }
+}
