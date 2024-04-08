@@ -1,14 +1,14 @@
 {
   "default": {
     "ru": [
-      "§5§lSIGHT§f§lWORLD §8∭§r §fЭТО §l§dПРОСТО §fТЕСТ!",
-      "§d§l↪§r §f§lГЛОБАЛЬНОЕ §d§lОБНОВЛЕНИЕ §fИ §d§lНОВЫЙ РЕЖИМ!"
+      "§e☆ §dSightWorld §f- ГЛОБАЛЬНОЕ §bОБНОВЛЕНИЕ§f! §e☆",
+      "    §fВерсия: §e1.12+ §7✎ §fСайт: §asightworld.ru  "
     ]
   },
   "hex": {
     "ru": [
-      "<gradient:#FF3399:#FFFFFF> §lSIGHTWORLD §8∭§r §fЭТО §l§dПРОСТО §fТЕСТ!",
-      "§d§l↪§r <gradient:#2880D8:#AC73CF:#EE68A4>§lГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ И НОВЫЙ РЕЖИМ!"
+      "§e☆ §dSightWorld §f- ГЛОБАЛЬНОЕ §bОБНОВЛЕНИЕ§f! §e☆",
+      "    §fВерсия: §e1.12+ §7✎ §fСайт: §asightworld.ru  "
     ]
   }
 }
