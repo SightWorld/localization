@@ -9,8 +9,8 @@
   "footer": {
     "ru": [
       " ",
-      "§7Режим: §d%server% §7| Онлайн режима: §d%local_online% §7| Пинг: §d%ping%",
-      "§7Онлайн-магазин: §bsightworld.ru"
+      "§fРежим: §d%server% §7| §fОнлайн режима: §d%local_online% §7| §fПинг: §d%ping%",
+      "§fОнлайн-магазин: §bsightworld.ru"
     ]
   }
 }
