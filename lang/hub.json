@@ -1,7 +1,7 @@
 {
   "board": {
     "title": {
-      "ru": "<yellow>SightWorld"
+      "ru": "<bold><yellow>SightWorld"
     },
     "money": {
       "ru": "Монеты: <gold>%money%"
@@ -13,7 +13,7 @@
       "ru": "Рубины: <red>%ruby%"
     },
     "level": {
-      "ru": "Уровень: <pink>%level%"
+      "ru": "Уровень: <purple>%level%"
     },
     "total_online": {
       "ru": "Общий онлайн: <green>%total_online%"
