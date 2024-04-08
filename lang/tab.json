@@ -2,7 +2,6 @@
   "header": {
     "ru": [
       "§d§lSightWorld",
-      " ",
       "§7Творим магию...",
       " "
     ]
@@ -10,8 +9,8 @@
   "footer": {
     "ru": [
       " ",
-      "§fРежим: §d%server% §f| Онлайн режима: §d%local_online% §f| Пинг: §d%ping%",
-      "§fОнлайн-магазин: §bsightworld.ru"
+      "§7Режим: §d%server% §7| Онлайн режима: §d%local_online% §7| Пинг: §d%ping%",
+      "§7Онлайн-магазин: §bsightworld.ru"
     ]
   }
 }
