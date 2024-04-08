@@ -1,13 +1,19 @@
 {
   "board": {
     "title": {
-      "ru": "<bold><gradient:#5e4fa2:#f79459:red>SightWorld</gradient>"
+      "ru": "<yellow>SightWorld"
     },
     "money": {
       "ru": "Монеты: <gold>%money%"
     },
     "ruby": {
       "ru": "Рудины: <red>%ruby%"
+    },
+    "level": {
+      "ru": "Уровень: <pink>%level%"
+    },
+    "total_online": {
+      "ru": "Общий онлайн: <green>%total_ohline%"
     },
     "site": {
       "ru": "<yellow>mc.sightworld.ru"
