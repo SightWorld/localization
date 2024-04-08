@@ -6,6 +6,9 @@
     "money": {
       "ru": "Монеты: <gold>%money%"
     },
+    "group": {
+      "ru": "Статус: %group%"
+    },
     "ruby": {
       "ru": "Рудины: <red>%ruby%"
     },
