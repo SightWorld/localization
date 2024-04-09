@@ -9,24 +9,24 @@
     "ru": "<yellow> - <yellow>%scheme%"
   },
   "find_offline_format": {
-    "ru": "<purple>Сервер §8| §fИгрок %player% §fбыл в сети в последний раз <gray>%time% §fназад"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Игрок %player% <white>был в сети в последний раз <gray>%time% <white>назад"
   },
   "find_online_format": {
-    "ru": "<purple>Сервер §8| §fИгрок %player% §fнаходится на сервере <green>%server%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Игрок %player% <white>находится на сервере <green>%server%"
   },
   "online_format": {
-    "ru": "<purple>Сервер §8| §fОнлайн проекта: <green>%size% §fигроков"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Онлайн проекта: <green>%size% <white>игроков"
   },
   "online_target_format": {
-    "ru": "<purple>Сервер §8| §fОнлайн указанных режимов: <green>%size% §fигроков"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Онлайн указанных режимов: <green>%size% <white>игроков"
   },
   "ping_loading": {
     "ru": "<red>Ошибка, Ваш пинг еще не загружен! Пожалуйста, попробуйте позже!"
   },
   "ping_format": {
-    "ru": "<purple>Сервер §8| §fВаш пинг: <green>%ping%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Ваш пинг: <green>%ping%"
   },
   "ping_other_format": {
-    "ru": "<purple>Сервер §8| §fПинг игрока: <green>%ping%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Пинг игрока: <green>%ping%"
   }
 }

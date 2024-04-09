@@ -13,7 +13,7 @@
       "ru": "Рубины: <red>%ruby%"
     },
     "level": {
-      "ru": "Уровень: <purple>%level%"
+      "ru": "Уровень: <dark_purple>%level%"
     },
     "total_online": {
       "ru": "Общий онлайн: <green>%total_online%"
