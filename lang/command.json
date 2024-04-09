@@ -1,4 +1,13 @@
 {
+  "usage_first": {
+    "ru": "§cОшибка, используйте %scheme%"
+  },
+  "usage_all": {
+    "ru": "§eПомощь по использованию команды:"
+  },
+  "usage_all_entry": {
+    "ru": "§e - §e%scheme%"
+  },
   "alert_usage": {
     "ru": "§cОшибка, используйте /alert <сообщение>!"
   },
