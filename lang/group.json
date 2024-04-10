@@ -8,6 +8,9 @@
     },
     "name": {
       "ru": "<gray>Игрок"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "slime": {
@@ -16,6 +19,9 @@
     },
     "name": {
       "ru": "<green>Слайм"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "stray": {
@@ -24,6 +30,9 @@
     },
     "name": {
       "ru": "<aqua>Стрей"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "phantom": {
@@ -32,6 +41,9 @@
     },
     "name": {
       "ru": "<light_purple>Фантом"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "blaze": {
@@ -40,6 +52,9 @@
     },
     "name": {
       "ru": "<gold>Блейз"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "wither": {
@@ -48,6 +63,9 @@
     },
     "name": {
       "ru": "<red>Визер"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "guard": {
@@ -56,6 +74,9 @@
     },
     "name": {
       "ru": "<dark_aqua>Страж"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "builder": {
@@ -64,6 +85,9 @@
     },
     "name": {
       "ru": "<dark_aqua>Строитель"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_builder": {
@@ -72,6 +96,9 @@
     },
     "name": {
       "ru": "<dark_aqua>Ст. Строитель"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "creator": {
@@ -80,6 +107,9 @@
     },
     "name": {
       "ru": "<dark_purple>Креатор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "helper": {
@@ -88,6 +118,9 @@
     },
     "name": {
       "ru": "<dark_green>Помощник"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_helper": {
@@ -96,6 +129,9 @@
     },
     "name": {
       "ru": "<dark_green>Ст. Помощник"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "moderator": {
@@ -104,6 +140,9 @@
     },
     "name": {
       "ru": "<blue>Модератор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_moderator": {
@@ -112,6 +151,9 @@
     },
     "name": {
       "ru": "<blue>Ст. Модератор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "administrator": {
@@ -120,6 +162,9 @@
     },
     "name": {
       "ru": "<dark_red>Администратор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "developer": {
@@ -128,6 +173,9 @@
     },
     "name": {
       "ru": "<dark_aqua>Разработчик"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_administrator": {
@@ -136,6 +184,9 @@
     },
     "name": {
       "ru": "<dark_red>Ст. Администратор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   }
 }
