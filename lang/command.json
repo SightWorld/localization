@@ -1,32 +1,32 @@
 {
-  "alert_usage": {
-    "ru": "§cОшибка, используйте /alert <сообщение>!"
+  "usage_first": {
+    "ru": "<red>Ошибка, используйте %scheme%"
   },
-  "connect_usage": {
-    "ru": "§cОшибка, используйте /connect <сервер>!"
+  "usage_all": {
+    "ru": "<yellow>Помощь по использованию команды:"
   },
-  "find_usage": {
-    "ru": "§cОшибка, используйте /find <игрок>!"
+  "usage_all_entry": {
+    "ru": "<yellow> - <yellow>%scheme%"
   },
   "find_offline_format": {
-    "ru": "§dСервер §8| §fИгрок %player% §fбыл в сети в последний раз §7%time% §fназад"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Игрок %player% <white>был в сети в последний раз <gray>%time% <white>назад"
   },
   "find_online_format": {
-    "ru": "§dСервер §8| §fИгрок %player% §fнаходится на сервере §a%server%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Игрок %player% <white>находится на сервере <green>%server%"
   },
   "online_format": {
-    "ru": "§dСервер §8| §fОнлайн проекта: §a%size% §fигроков"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Онлайн проекта: <green>%size% <white>игроков"
   },
   "online_target_format": {
-    "ru": "§dСервер §8| §fОнлайн указанных режимов: §a%size% §fигроков"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Онлайн указанных режимов: <green>%size% <white>игроков"
   },
   "ping_loading": {
-    "ru": "§cОшибка, Ваш пинг еще не загружен! Пожалуйста, попробуйте позже!"
+    "ru": "<red>Ошибка, Ваш пинг еще не загружен! Пожалуйста, попробуйте позже!"
   },
   "ping_format": {
-    "ru": "§dСервер §8| §fВаш пинг: §a%ping%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Ваш пинг: <green>%ping%"
   },
   "ping_other_format": {
-    "ru": "§dСервер §8| §fПинг игрока: §a%ping%"
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Пинг игрока: <green>%ping%"
   }
 }

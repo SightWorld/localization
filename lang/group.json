@@ -1,138 +1,192 @@
 {
+  "not_found": {
+    "ru": "<red>Ошибка, группа не найдена!"
+  },
   "default": {
     "prefix": {
-      "ru": "§7"
+      "ru": "<gray>"
     },
     "name": {
-      "ru": "§7Игрок"
+      "ru": "<gray>Игрок"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "slime": {
     "prefix": {
-      "ru": "§a§lSLIME"
+      "ru": "<b><green>SLIME"
     },
     "name": {
-      "ru": "§aСлайм"
+      "ru": "<green>Слайм"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "stray": {
     "prefix": {
-      "ru": "§b§lSTRAY"
+      "ru": "<b><aqua>STRAY"
     },
     "name": {
-      "ru": "§bСтрей"
+      "ru": "<aqua>Стрей"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "phantom": {
     "prefix": {
-      "ru": "§d§lPHANTOM"
+      "ru": "<b><light_purple>PHANTOM"
     },
     "name": {
-      "ru": "§dФантом"
+      "ru": "<light_purple>Фантом"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "blaze": {
     "prefix": {
-      "ru": "§6§lBLAZE"
+      "ru": "<b><gold>BLAZE"
     },
     "name": {
-      "ru": "§6Блейз"
+      "ru": "<gold>Блейз"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "wither": {
     "prefix": {
-      "ru": "§c§lWITHER"
+      "ru": "<b><red>WITHER"
     },
     "name": {
-      "ru": "§cВизер"
+      "ru": "<red>Визер"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "guard": {
     "prefix": {
-      "ru": "§3§lGUARD"
+      "ru": "<b><dark_aqua>GUARD"
     },
     "name": {
-      "ru": "§3Страж"
+      "ru": "<dark_aqua>Страж"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "builder": {
     "prefix": {
-      "ru": "§3§lBUILDER"
+      "ru": "<b><dark_aqua>BUILDER"
     },
     "name": {
-      "ru": "§3Строитель"
+      "ru": "<dark_aqua>Строитель"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_builder": {
     "prefix": {
-      "ru": "§3§lSR.BUILDER"
+      "ru": "<b><dark_aqua>SR.BUILDER"
     },
     "name": {
-      "ru": "§3Ст. Строитель"
+      "ru": "<dark_aqua>Ст. Строитель"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "creator": {
     "prefix": {
-      "ru": "§5§lCREATOR"
+      "ru": "<b><dark_purple>CREATOR"
     },
     "name": {
-      "ru": "§5Креатор"
+      "ru": "<dark_purple>Креатор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "helper": {
     "prefix": {
-      "ru": "§2§lHELPER"
+      "ru": "<b><dark_green>HELPER"
     },
     "name": {
-      "ru": "§2Помощник"
+      "ru": "<dark_green>Помощник"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_helper": {
     "prefix": {
-      "ru": "§2SR.HELPER"
+      "ru": "<b><dark_green>SR.HELPER"
     },
     "name": {
-      "ru": "§2Ст. Помощник"
+      "ru": "<dark_green>Ст. Помощник"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "moderator": {
     "prefix": {
-      "ru": "§9§lMODER"
+      "ru": "<b><blue>MODER"
     },
     "name": {
-      "ru": "§9Модератор"
+      "ru": "<blue>Модератор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_moderator": {
     "prefix": {
-      "ru": "§9§lSR.MODER"
+      "ru": "<b><blue>SR.MODER"
     },
     "name": {
-      "ru": "§9Ст. Модератор"
+      "ru": "<blue>Ст. Модератор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "administrator": {
     "prefix": {
-      "ru": "§4§lADMIN"
+      "ru": "<b><dark_red>ADMIN"
     },
     "name": {
-      "ru": "§4Администратор"
+      "ru": "<dark_red>Администратор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "developer": {
     "prefix": {
-      "ru": "§3§lDEVELOPER"
+      "ru": "<b><dark_aqua>DEVELOPER"
     },
     "name": {
-      "ru": "§3Разработчик"
+      "ru": "<dark_aqua>Разработчик"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   },
   "sr_administrator": {
     "prefix": {
-      "ru": "§4§lSR.ADMIN"
+      "ru": "<b><dark_red>SR.ADMIN"
     },
     "name": {
-      "ru": "§4Ст. Администратор"
+      "ru": "<dark_red>Ст. Администратор"
+    },
+    "chat_color": {
+      "ru": "<gray>"
     }
   }
 }

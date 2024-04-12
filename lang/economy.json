@@ -1,0 +1,14 @@
+{
+  "balance": {
+    "ru": "<dark_purple>Баланс</dark_purple> <dark_gray>|</dark_gray> <white>У вас сейчас</white><red> %ruby% рубинов</red>, <gold>%money% монет</gold>"
+  },
+  "balance_other": {
+    "ru": "<dark_purple>Баланс <dark_gray>| <white>Баланс игрока %player%: <red>%ruby% рубинов, <gold>%money% монеток"
+  },
+  "set": {
+    "ru": "<dark_purple>Баланс <dark_gray>| <white>Вы успешно установили игроку монеты. Его баланс: <red>%ruby% рубинов, <gold>%money% монеток"
+  },
+  "add": {
+    "ru": "<dark_purple>Баланс <dark_gray>| <white>Вы успешно добавили игроку монеты. Его баланс: <red>%ruby% рубинов, <gold>%money% монеток"
+  }
+}
