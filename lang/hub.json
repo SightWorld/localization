@@ -36,6 +36,12 @@
     "main_hub": {
       "item_material": {
         "ru": "DIRT"
+      },
+      "item_name": {
+        "ru": "Главный хаб"
+      },
+      "item_lore": {
+        "ru": "Я люблю егорку"
       }
     },
     "donate": {
