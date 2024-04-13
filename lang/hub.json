@@ -24,26 +24,26 @@
   },
   "hub_mode_selector": {
     "main_hub": {
-      "material": {
+      "item_material": {
         "ru": "DIRT"
       }
     },
     "donate": {
-      "material": {
+      "item_material": {
         "ru": "DIRT"
       }
     },
     "survival": {
+      "item_material": {
+        "ru": "DIRT"
+      }
+    },
+    "item_skypvp": {
       "material": {
         "ru": "DIRT"
       }
     },
-    "skypvp": {
-      "material": {
-        "ru": "DIRT"
-      }
-    },
-    "help": {
+    "item_help": {
       "material": {
         "ru": "DIRT"
       }
