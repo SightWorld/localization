@@ -22,7 +22,7 @@
       "ru": "<yellow>mc.sightworld.ru"
     }
   },
-  "hub_mode_selector": {
+  "mode_selector": {
     "main_hub": {
       "item_material": {
         "ru": "DIRT"
@@ -38,13 +38,13 @@
         "ru": "DIRT"
       }
     },
-    "item_skypvp": {
-      "material": {
+    "skypvp": {
+      "item_material": {
         "ru": "DIRT"
       }
     },
-    "item_help": {
-      "material": {
+    "help": {
+      "item_material": {
         "ru": "DIRT"
       }
     }
