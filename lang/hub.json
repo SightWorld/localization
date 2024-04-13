@@ -21,5 +21,32 @@
     "site": {
       "ru": "<yellow>mc.sightworld.ru"
     }
+  },
+  "hub_mode_selector": {
+    "main_hub": {
+      "material": {
+        "ru": "DIRT"
+      }
+    },
+    "donate": {
+      "material": {
+        "ru": "DIRT"
+      }
+    },
+    "survival": {
+      "material": {
+        "ru": "DIRT"
+      }
+    },
+    "skypvp": {
+      "material": {
+        "ru": "DIRT"
+      }
+    },
+    "help": {
+      "material": {
+        "ru": "DIRT"
+      }
+    }
   }
 }
