@@ -46,6 +46,11 @@
         ]
       }
     },
+    "creative": {
+      "item_material": {
+        "ru": "DIRT"
+      }
+    },
     "donate": {
       "item_material": {
         "ru": "DIRT"
