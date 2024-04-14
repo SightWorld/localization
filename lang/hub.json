@@ -49,6 +49,14 @@
     "creative": {
       "item_material": {
         "ru": "DIRT"
+      },
+      "item_name": {
+        "ru": "Креатив"
+      },
+      "item_lore": {
+        "ru": [
+          "мяу"
+        ]
       }
     },
     "donate": {
