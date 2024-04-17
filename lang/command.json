@@ -28,5 +28,8 @@
   },
   "ping_other_format": {
     "ru": "<dark_purple>Сервер <dark_gray>| <white>Пинг игрока: <green>%ping%"
+  },
+  "time_played": {
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Наиграно времени: <green>%time%"
   }
 }
