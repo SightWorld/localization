@@ -1,25 +1,25 @@
 {
   "board": {
     "title": {
-      "ru": "<bold><yellow>SightWorld"
+      "ru": "<bold><light_purple>SightWorld"
     },
     "money": {
-      "ru": "Монеты: <gold>%money%"
+      "ru": "Монеты: <aqua>%money%"
     },
     "group": {
       "ru": "Статус: %group%"
     },
     "ruby": {
-      "ru": "Рубины: <red>%ruby%"
+      "ru": "Рубины: <light_purple>%ruby%"
     },
     "level": {
-      "ru": "Уровень: <dark_purple>%level%"
+      "ru": "Уровень: <light_purple>%level%"
     },
     "total_online": {
       "ru": "Общий онлайн: <green>%total_online%"
     },
     "site": {
-      "ru": "<yellow>mc.sightworld.ru"
+      "ru": "<light_purple>mc.sightworld.ru"
     }
   },
   "mode_selector": {
