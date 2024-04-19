@@ -38,7 +38,7 @@
         "ru": "NETHER_STAR"
       },
       "item_name": {
-        "ru": "<light_purple><b>Вернуться в лобби"
+        "ru": "<light_purple>Вернуться в лобби"
       },
       "item_lore": {
         "ru": [
@@ -55,7 +55,7 @@
         "ru": "PURPUR_BLOCK"
       },
       "item_name": {
-        "ru": "<light_purple><b>Creative 1.20 <yellow><b>ОБНОВЛЁН!"
+        "ru": "<light_purple>Creative 1.20 <yellow><b>Обновлён!"
       },
       "item_lore": {
         "ru": [
@@ -76,7 +76,7 @@
         "ru": "DIAMOND"
       },
       "item_name": {
-        "ru": "<light_purple><b>Донат"
+        "ru": "<light_purple>Донат"
       },
       "item_lore": {
         "ru": [
@@ -94,7 +94,7 @@
         "ru": "BARRIER"
       },
       "item_name": {
-        "ru": "<light_purple><b>Здесь скоро что-то будет..."
+        "ru": "<light_purple>Здесь скоро что-то будет..."
       },
       "item_lore": {
         "ru": [
@@ -130,7 +130,7 @@
         "ru": "BOOK"
       },
       "item_name": {
-        "ru": "<light_purple><b>Помощь"
+        "ru": "<light_purple>Помощь"
       },
       "item_lore": {
         "ru": [
