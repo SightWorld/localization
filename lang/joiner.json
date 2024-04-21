@@ -1,8 +1,5 @@
 {
   "1": {
     "ru": " <yellow>♦ %player% <yelloy>подключился и пошёл на работу!"
-  },
-  "2": {
-    "ru": "<dark_purple>♦ <light_purple>20:31 - <yellow>прибыл %player%"
   }
 }
