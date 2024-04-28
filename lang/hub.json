@@ -32,31 +32,35 @@
     "title": {
       "ru": "Выбор лобби"
     },
-    "lobby_this_item_name": {
-      "ru": "<red>%server%"
+    "lobby_this_item": {
+      "name": {
+        "ru": "<red>%server%"
+      },
+      "material": {
+        "ru": "red_stained_glass"
+      },
+      "lore": {
+        "ru": [
+          "",
+          "<red>Вы уже здесь!"
+        ]
+      }
     },
-    "lobby_this_item_material": {
-      "ru": "red_stained_glass"
-    },
-    "lobby_this_item_lore": {
-      "ru": [
-        "",
-        "<red>Вы уже здесь!"
-      ]
-    },
-    "lobby_other_item_name": {
-      "ru": "<yellow>%server%"
-    },
-    "lobby_other_item_material": {
-      "ru": "green_stained_glass"
-    },
-    "lobby_other_item_lore": {
-      "ru": [
-        "",
-        "<white>Онлайн: <dark_gray>%online",
-        "",
-        "<yellow>Клик, чтобы подключиться"
-      ]
+    "lobby_other_item": {
+      "name": {
+        "ru": "<yellow>%server%"
+      },
+      "material": {
+        "ru": "green_stained_glass"
+      },
+      "lore": {
+        "ru": [
+          "",
+          "<white>Онлайн: <dark_gray>%online",
+          "",
+          "<yellow>Клик, чтобы подключиться"
+        ]
+      }
     }
   },
   "board": {
