@@ -1,4 +1,64 @@
 {
+  "mode_hologram": {
+    "survival_name": {
+      "ru": "<green>Выживание"
+    },
+    "survival_online": {
+      "ru": "<white>Онлайн режима: %online%"
+    },
+    "survival_click_me": {
+      "ru": "<gray>Нажмите, чтобы подключиться"
+    },
+    "creative_name": {
+      "ru": "<red>Креатив"
+    },
+    "creative_online": {
+      "ru": "<white>Онлайн режима: %online%"
+    },
+    "creative_click_me": {
+      "ru": "<gray>Нажмите, чтобы подключиться"
+    },
+    "skypvp_name": {
+      "ru": "<light_purple>SkyPvP"
+    },
+    "skypvp_online": {
+      "ru": "<white>Онлайн режима: %online%"
+    },
+    "skypvp_click_me": {
+      "ru": "<gray>Нажмите, чтобы подключиться"
+    }
+  },
+  "lobby_selector": {
+    "title": {
+      "ru": "Выбор лобби"
+    },
+    "lobby_this_item_name": {
+      "ru": "<red>%server%"
+    },
+    "lobby_this_item_material": {
+      "ru": "red_stained_glass"
+    },
+    "lobby_this_item_lore": {
+      "ru": [
+        "",
+        "<red>Вы уже здесь!"
+      ]
+    },
+    "lobby_other_item_name": {
+      "ru": "<yellow>%server%"
+    },
+    "lobby_other_item_material": {
+      "ru": "green_stained_glass"
+    },
+    "lobby_other_item_lore": {
+      "ru": [
+        "",
+        "<white>Онлайн: <dark_gray>%online",
+        "",
+        "<yellow>Клик, чтобы подключиться"
+      ]
+    }
+  },
   "board": {
     "title": {
       "ru": "<bold><light_purple>SightWorld"
@@ -23,6 +83,9 @@
     }
   },
   "mode_selector": {
+    "title": {
+      "ru": "Выбор режима"
+    },
     "pattern": {
       "ru": [
         "000010000",

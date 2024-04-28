@@ -31,5 +31,11 @@
   },
   "time_played": {
     "ru": "<dark_purple>Сервер <dark_gray>| <white>Наиграно времени: <green>%time%"
+  },
+  "custom_suffix_set": {
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Успешно установили суффикс"
+  },
+  "custom_prefix_set": {
+    "ru": "<dark_purple>Сервер <dark_gray>| <white>Успешно установили префикс"
   }
 }
