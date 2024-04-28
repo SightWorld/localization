@@ -1,31 +1,37 @@
 {
   "mode_hologram": {
-    "survival_name": {
-      "ru": "<green>Выживание"
+    "survival": {
+      "name": {
+        "ru": "<green>Выживание"
+      },
+      "online": {
+        "ru": "<white>Онлайн режима: %online%"
+      },
+      "click_me": {
+        "ru": "<gray>Нажмите, чтобы подключиться"
+      }
     },
-    "survival_online": {
-      "ru": "<white>Онлайн режима: %online%"
+    "creative": {
+      "name": {
+        "ru": "<red>Креатив"
+      },
+      "online": {
+        "ru": "<white>Онлайн режима: %online%"
+      },
+      "click_me": {
+        "ru": "<gray>Нажмите, чтобы подключиться"
+      }
     },
-    "survival_click_me": {
-      "ru": "<gray>Нажмите, чтобы подключиться"
-    },
-    "creative_name": {
-      "ru": "<red>Креатив"
-    },
-    "creative_online": {
-      "ru": "<white>Онлайн режима: %online%"
-    },
-    "creative_click_me": {
-      "ru": "<gray>Нажмите, чтобы подключиться"
-    },
-    "skypvp_name": {
-      "ru": "<light_purple>SkyPvP"
-    },
-    "skypvp_online": {
-      "ru": "<white>Онлайн режима: %online%"
-    },
-    "skypvp_click_me": {
-      "ru": "<gray>Нажмите, чтобы подключиться"
+    "skypvp": {
+      "name": {
+        "ru": "<light_purple>SkyPvP"
+      },
+      "online": {
+        "ru": "<white>Онлайн режима: %online%"
+      },
+      "click_me": {
+        "ru": "<gray>Нажмите, чтобы подключиться"
+      }
     }
   },
   "lobby_selector": {
