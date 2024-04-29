@@ -9,7 +9,9 @@
   "footer": {
     "ru": [
       " ",
-      "§fРежим: §d%server% §7| §fОнлайн режима: §d%local_online% §7| §fПинг: §d%ping%",
+      "§fСервер: §d%server% §7| §fОбщий онлайн: §d%local_online% §7| §fПинг: §d%ping%",
+      "§fВ данный момент на этом режиме играет §d%local_online% §fчеловек",
+      " ",
       "§fОнлайн-магазин: §bsightworld.ru"
     ]
   }
