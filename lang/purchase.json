@@ -1,7 +1,38 @@
 {
+  "buy_successfully": {
+    "ru": "<light_purple>Покупки <dark_gray>| <white>Покупка совершена успешно! Поздравляем!"
+  },
+  "accept_item": {
+    "material": {
+      "ru": "GREEN_STAINED_GLASS"
+    },
+    "name": {
+      "ru": "<green>Подтвердить покупку"
+    },
+    "lore": {
+      "ru": [
+        "",
+        "<aqua>Нажмите, чтобы купить"
+      ]
+    }
+  },
+  "cancel_item": {
+    "material": {
+      "ru": "RED_STAINED_GLASS"
+    },
+    "name": {
+      "ru": "<red>Отказаться"
+    },
+    "lore": {
+      "ru": [
+        "",
+        "<aqua>Нажмите, чтобы вернуться назад"
+      ]
+    }
+  },
   "joiner": {
     "title": {
-      "ru": "Покупка сообщений о входе"
+      "ru": "Сообщения при входе"
     },
     "purchased_item": {
       "material": {
