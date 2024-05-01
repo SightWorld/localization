@@ -1,0 +1,64 @@
+{
+  "joiner": {
+    "title": {
+      "ru": "Покупка сообщений о входе"
+    },
+    "purchased_item": {
+      "material": {
+        "ru": "GREEN_STAINED_GLASS_PANE"
+      },
+      "name": {
+        "ru": "<green>Сообщение #%id%"
+      },
+      "lore": {
+        "ru": [
+          "<dark_gray>Сообщение при входе",
+          "<dark_gray>это отличная возможность",
+          "<dark_gray>выделиться среди других!",
+          "",
+          "<white>Сообщение: %message%",
+          "",
+          "<aqua>Нажмите, чтобы установить"
+        ]
+      }
+    },
+    "selected_item": {
+      "material": {
+        "ru": "LIGHT_BLUE_STAINED_GLASS_PANE"
+      },
+      "name": {
+        "ru": "<aqua>Сообщение #%id%"
+      },
+      "lore": {
+        "ru": [
+          "<dark_gray>Сообщение при входе",
+          "<dark_gray>это отличная возможность",
+          "<dark_gray>выделиться среди других!",
+          "",
+          "<white>Сообщение: %message%",
+          "",
+          "<aqua>Нажмите, чтобы убрать"
+        ]
+      }
+    },
+    "not_purchased_item": {
+      "material": {
+        "ru": "RED_STAINED_GLASS_PANE"
+      },
+      "name": {
+        "ru": "<red>Сообщение #%id%"
+      },
+      "lore": {
+        "ru": [
+          "<dark_gray>Сообщение при входе",
+          "<dark_gray>это отличная возможность",
+          "<dark_gray>выделиться среди других!",
+          "",
+          "<white>Сообщение: %message%",
+          "",
+          "<aqua>Нажмите, чтобы купить"
+        ]
+      }
+    }
+  }
+}
