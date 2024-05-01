@@ -1,0 +1,33 @@
+{
+  "mode_selector": {
+    "item": {
+      "name": {
+        "ru": "<yellow>Выбор режима"
+      },
+      "material": {
+        "ru": "COMPASS"
+      },
+      "lore": {
+        "ru": [
+          "<light_gray>Выбирайте режим",
+          "<light_gray>и играйте"
+        ]
+      }
+    }
+  },
+  "lobby_selector": {
+    "item": {
+      "name": {
+        "ru": "<yellow>Выбор лобби"
+      },
+      "material": {
+        "ru": "SLIME_BALL"
+      },
+      "lore": {
+        "ru": [
+          "<light_gray>Выбор лобби"
+        ]
+      }
+    }
+  }
+}
