@@ -1,7 +1,7 @@
 {
   "header": {
     "ru": [
-      "<green><bold>LimeMC</gold></bold>",
+      "<green><bold>LimeMC",
       "<gray>Творим магию...</gray>",
       " "
     ]
@@ -12,7 +12,7 @@
       "<white>Сервер: <gold>%server% <gray>| <white>Общий онлайн: <gold>%local_online% <gray>| <white>Пинг: <gold>%ping%</gold>",
       "<white>Сейчас на этом режиме играет <gold>%local_online% <white>человек</white>",
       " ",
-      "<white>Онлайн-магазин: <blue><underlined>www.sightworld.ru</blue></underlined>"
+      "<white>Онлайн-магазин: <blue><underlined>www.sightworld.ru</blue>"
     ]
   }
 }
