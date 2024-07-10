@@ -10,7 +10,7 @@
     "ru": [
       " ",
       "<white>Сервер: <gold>%server% <dark_gray>| <white>Общий онлайн: <gold>%local_online% <dark_gray>| <white>Пинг: <gold>%ping%</gold>",
-      "<white>Сейчас на этом режиме играет <gold>%local_online% <white>человек</white>",
+      "<white>Сейчас на этом режиме играет <red>%local_online% <white>человек</white>",
       " ",
       "<white>Онлайн-магазин: <blue><underlined>www.sightworld.ru</blue>"
     ]
