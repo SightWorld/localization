@@ -1,14 +1,14 @@
 {
   "default": {
     "ru": [
-      "§e☆ §d§lSightWorld §f- ГЛОБАЛЬНОЕ §b§lОБНОВЛЕНИЕ§f! §e☆",
-      "   §fВерсия: §e1.12+ §7✎ §fСайт: §asightworld.ru  "
+      "<yellow>☆ <dark_green><bold>SightWorld <white>- ГЛОБАЛЬНОЕ <blue><bold>ОБНОВЛЕНИЕ<white>! <yellow>☆",
+      "   <white>Версия: <yellow>1.12+ <grey>✎ <white>Сайт: <green>sightworld.ru  "
     ]
   },
   "hex": {
     "ru": [
-      "§e☆ §dSightWorld §f- ГЛОБАЛЬНОЕ §bОБНОВЛЕНИЕ§f! §e☆",
-      "   §fВерсия: §e1.12+ §7✎ §fСайт: §asightworld.ru  "
+      "<yellow>☆ <dark_green>SightWorld <white>- ГЛОБАЛЬНОЕ <blue>ОБНОВЛЕНИЕ<white>! <yellow>☆",
+      "   <white>Версия: <yellow>1.12+ <grey>✎ <white>Сайт: <green>sightworld.ru  "
     ]
   }
 }
