@@ -1,18 +1,20 @@
 {
   "header": {
     "ru": [
-      "<green><bold>LimeMC",
-      "<gray>Творим магию...</gray>",
+     "<green><bold>LimeMC Network",
+      " ",
+      "<white>Онлайн-магазин:",
+      "<dark_green>www.limemc.ru</dark_green>",
       " "
     ]
   },
   "footer": {
     "ru": [
       " ",
-      "<white>Сервер: <gold>%server% <dark_gray>| <white>Общий онлайн: <gold>%local_online% <dark_gray>| <white>Пинг: <gold>%ping%</gold>",
-      "<white>Сейчас на этом режиме играет <red>%local_online% <white>человек</white>",
+      "<white>Вы находитесь на сервере:",
+      "<gold><server>",
       " ",
-      "<white>Онлайн-магазин: <blue><underlined>www.sightworld.ru</blue>"
+      ""
     ]
   }
 }
