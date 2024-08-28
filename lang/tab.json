@@ -12,7 +12,7 @@
     "ru": [
       " ",
       "<white>Вы находитесь на сервере:",
-      "<gold><server>",
+      "<dark_green>%server%",
       " ",
       ""
     ]
